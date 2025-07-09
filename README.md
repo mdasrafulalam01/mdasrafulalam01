@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdasrafulalam01&label=Profile%20views&color=0e75b6&style=flat" alt="mdasrafulalam01" /> </p>
 
-- My first project [Restaurants Website](https://dreambook.mdasrafulalam.com/)
-
 - 🌱 I’m currently learning **JavaScript,Web-design, WordPress Assembly**
+
+- My first project [Restaurants Website](https://dreambook.mdasrafulalam.com/)
 
 - My second project [E-commerce Store](https://freshgrocery.mdasrafulalam.com/)
 
