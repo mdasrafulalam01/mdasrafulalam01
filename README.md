@@ -12,6 +12,13 @@
 - My Third project [Marketing Agency](https://adliora.mdasrafulalam.com/)
 
 - 📫 How to reach me **TJTJ8591@GMAIL.COM**
+
+<h3 align="left">My Skill:</h3>
+
+-HTML5
+-CSS3
+-WordPress
+-Elementor & Elementor Pro
 - 🌱 I’m currently learning **JavaScript,Web-design, WordPress Assembly**
 
 <h3 align="left">Connect with me:</h3>
