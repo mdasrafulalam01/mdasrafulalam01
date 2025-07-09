@@ -19,7 +19,9 @@
 - CSS3
 - WordPress
 - Elementor & Elementor Pro
-- 🌱 I’m currently learning **JavaScript,Web-design, WordPress Assembly**
+- WordPress Customization
+- Figma to WordPress
+- 🌱 I’m currently learning **JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
