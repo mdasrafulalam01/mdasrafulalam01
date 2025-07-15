@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, My name is MD Asraful Alam</h1>
 <h3 align="center">I am a WordPress expert and WordPress Assembler and low-code developer</h3>
 
+![image alt](https://media.licdn.com/dms/image/v2/D5616AQGZtsJV5aLDQQ/profile-displaybackgroundimage-shrink_350_1400/B56ZgFgHUgHIAY-/0/1752438962370?e=1758153600&v=beta&t=dmkdRj32I_e0iNrXFtiElSKVLFjrzOGleQOV7LqQccM)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdasrafulalam01&label=Profile%20views&color=0e75b6&style=flat" alt="mdasrafulalam01" /> </p>
 
 <h3 align="left">My Portfolio Website:</h3>
