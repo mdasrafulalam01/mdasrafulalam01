@@ -18,15 +18,36 @@ https://mdasrafulalam.com/
 
 - 📫 How to reach me **TJTJ8591@GMAIL.COM**
 
-<h3 align="left">My Skill:</h3>
+<h3 align="left">Expertise / Skill Sets:</h3>
 
-- HTML5
-- CSS3
-- WordPress
-- Elementor & Elementor Pro
-- WordPress Customization
-- Figma to WordPress
+- ➤ WordPress & WooCommerce Expert
+- ➤ FIGMA, XD, PSD to WordPress
+- ➤ WordPress Customization
+- ➤ WordPress Website redesign
+- ➤ Website backup & Migration
+- ➤ Website Security
+- ➤ WordPress Speed optimization
+- ➤ HTML5, CSS3,  WordPress Bug/ Error Fixing.
+- ➤ Search Engine Optimisation (SEO), On page SEO & Off page SEO Expert
+- ➤ Website Maintenance & Website Optimization
+- ➤ Website speed increase & SEO
+- ➤ Virtual Assistant
+
 - 🌱 I’m currently learning **JavaScript**
+
+<h3 align="left">The Types Of Website I Can Create And Design:</h3>
+
+- ➤Online Store / eCommerce Website
+- ➤ Landing Page
+- ➤ Travel Agency Website
+- ➤ Personal / Portfolio website
+- ➤ Non-profit organization Website
+- ➤ Baby Care / Day Care Website
+- ➤ Consulting website
+- ➤ News or Magazine Website
+- ➤ Educational Website
+- ➤ Real Estate Website
+- ➤ Business Listing Website
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
